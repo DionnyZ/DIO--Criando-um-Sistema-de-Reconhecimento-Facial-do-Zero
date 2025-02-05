@@ -1,0 +1,10 @@
+# Bibliotecas necessárias para executar o código:
+
+## Caso esteja utilizando o conda, executar os seguintes comandos:
+conda install -c conda-forge opencv dlib
+pip install face_recognition
+conda install numpy
+
+## Caso não esteja utilizando o conda, executar os seguintes comandos:
+pip install opencv-python dlib face_recognition
+pip install numpy
